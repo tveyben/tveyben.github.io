@@ -1,7 +1,8 @@
 # tester her
 test of links to local anchors
 
-~~~
+```
+
 1
 2
 3
@@ -37,6 +38,7 @@ test of links to local anchors
 1
 2
 3
-~~~
+```
+
 
 [bla](#tester-her)
